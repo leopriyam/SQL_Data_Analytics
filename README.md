@@ -1,3 +1,7 @@
+# SQL Data Analytics Project
+
+Contains SQL queries and visualization images.
+
 # intermediate SQL - Sales Analysis
 
 ## Overview
